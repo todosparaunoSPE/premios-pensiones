@@ -13,7 +13,7 @@ st.set_page_config(page_title="Premios de Pensiones de México", page_icon="🏆
 st.title("Premios de Pensiones de México")
 st.subheader("Reconociendo la excelencia en la industria de pensiones")
 
-st.subheader("Propuesta compartida para: Emilio Bertrán Rodríguez, de SURA")
+st.subheader("Propuesta compartida para: Emilio Bertrán Rodríguez, de AFORE SURA")
 
 # Imagen
 st.image("emilio.jpg", caption="Premios de Pensiones de México")
