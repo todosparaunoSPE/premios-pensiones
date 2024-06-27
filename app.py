@@ -24,7 +24,7 @@ st.markdown("""
 
 **Asunto: Oportunidad Única para Reconocer la Excelencia en la Industria de Pensiones**
 
-Estimado, [Sergio Athie]
+Estimado, [Emilio Bertrán Rodríguez]
 
 Me complace presentarle una oportunidad única: los Premios de Pensiones de México. Este evento podría dedicarse a reconocer la excelencia, innovación y mejores prácticas en la industria de pensiones del país.
 """)
